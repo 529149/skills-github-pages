@@ -1,5 +1,6 @@
-<header>
 #_Hello, How you there!_#
+<header>
+
 <!--
   <<< Author notes: Course header >>>
   Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
